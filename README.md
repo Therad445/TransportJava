@@ -1,2 +1,2 @@
 # TransportJava
-Simple demonstration of OOP on Java
+Simple demonstration of OOP in Java
